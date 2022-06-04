@@ -62,7 +62,9 @@ input {
   margin-bottom: 3rem;
   gap: 1rem;
 }
-
+button {
+  background-color: rgba(57, 9, 230, 0.555);
+}
 button:hover {
   cursor: pointer;
   background-color: rgba(128, 128, 128, 0.668);
